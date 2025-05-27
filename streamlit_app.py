@@ -4,7 +4,7 @@ st.title("welcome to my room")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-st.image("IMG_0811.jpg", width=200)
+#st.image("IMG_0811.jpg", width=200)
 
 st.title("Aplikasi sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
